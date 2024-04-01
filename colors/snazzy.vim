@@ -4,7 +4,7 @@
 " ===============================================================
 
 " Setup
-set background=dark
+set background=none
 if version > 580
 	hi clear
 	if exists("syntax_on")
